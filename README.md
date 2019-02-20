@@ -29,3 +29,9 @@
 - A Practical Convolutional Neural Network As Loop Filter For Intra Frame (ICIP 2018), Xiaodan Song, Jiabao Yao, Lulu Zhou, Li Wang, Xiaoyang Wu, Di Xie and Shiliang Pu.
 
 - Enhancing Hevc Compressed Videos With A Partition-Masked Convolutional Neural Network (ICIP 2018), Xiaoyi He, Qiang Hu, Xintong Han, Xia.
+
+- Deep Frame Prediction for Video Coding (TCSVT 2018), Hyomin Choi, Ivan V. Bajic
+
+- Convolution Neural Network based Video Coding Technique using Reference Video Synthesis (APSIPA 2018), Jung Kyung Lee, Nayoung Kim, Seunghyun Cho, and Je-Won Kang
+
+- Content-Aware Convolutional Neural Network for In-loop Filtering in High Efficiency Video Coding (TIP 2019), Chuanmin Jia, Shiqi Wang, Xinfeng Zhang, Shanshe Wang, Jiaying Liu, Shiliang Pu, and Siwei Ma
