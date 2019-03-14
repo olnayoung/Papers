@@ -35,3 +35,5 @@
 - Convolution Neural Network based Video Coding Technique using Reference Video Synthesis (APSIPA 2018), Jung Kyung Lee, Nayoung Kim, Seunghyun Cho, and Je-Won Kang
 
 - Content-Aware Convolutional Neural Network for In-loop Filtering in High Efficiency Video Coding (TIP 2019), Chuanmin Jia, Shiqi Wang, Xinfeng Zhang, Shanshe Wang, Jiaying Liu, Shiliang Pu, and Siwei Ma
+
+- A DenseNet Based Approach for Multi-Frame In-Loop Filter in HEVC (ArXiv 2019), Tianyi Li, Mai Xu, Ren Yang and Xiaoming Tao 
