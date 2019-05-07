@@ -39,3 +39,7 @@
 - A DenseNet Based Approach for Multi-Frame In-Loop Filter in HEVC (ArXiv 2019), Tianyi Li, Mai Xu, Ren Yang and Xiaoming Tao 
 
 - Dense Residual Convolutional Neural Network based In-Loop Filter for HEVC (VCIP 2019), Yingbin Wang, Han Zhu, Yiming Li, Zhenzhong Chen, Shan Liu
+
+- AV1 in-loop filtering using a wide-activation structured residual network (ICIP 2019)
+
+- Partition Tree Guided Progressive Rethinking Network for in-Loop Filtering of HEVC (ICIP 2019)
