@@ -1,4 +1,4 @@
-# Papers
+# Papers for in-loop filtering
 
 - Deep Learning Based HEVC In-Loop Filtering For Decoder Quality Enhancement (PCS 2018), Shiba Kuanar, Christopher Conly, Kamisetty Rao.
 
