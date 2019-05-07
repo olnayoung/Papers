@@ -40,6 +40,8 @@
 
 - Dense Residual Convolutional Neural Network based In-Loop Filter for HEVC (VCIP 2019), Yingbin Wang, Han Zhu, Yiming Li, Zhenzhong Chen, Shan Liu
 
+- Deep Learning-Based Video Coding: A Review and A Case Study (ArXiv 2019), Dong Liu, Yue Li, Jianping Lin, Houqiang Li, Feng Wu
+
 - AV1 in-loop filtering using a wide-activation structured residual network (ICIP 2019)
 
 - Partition Tree Guided Progressive Rethinking Network for in-Loop Filtering of HEVC (ICIP 2019)
