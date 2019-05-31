@@ -45,3 +45,7 @@
 - AV1 in-loop filtering using a wide-activation structured residual network (ICIP 2019)
 
 - Partition Tree Guided Progressive Rethinking Network for in-Loop Filtering of HEVC (ICIP 2019)
+
+- LEARNED QUALITY ENHANCEMENT VIA MULTI-FRAME PRIORS FOR HEVC COMPLIANT LOW-DELAY APPLICATIONS (ArXiv 2019), Ming Lu, Ming Cheng, Yiling Xu, Shiliang Pu, Qiu Shen, and Zhan Ma
+
+- DVC: An End-to-end Deep Video Compression Framework (CVPR 2019)
