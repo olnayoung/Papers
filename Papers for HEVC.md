@@ -49,3 +49,5 @@
 - LEARNED QUALITY ENHANCEMENT VIA MULTI-FRAME PRIORS FOR HEVC COMPLIANT LOW-DELAY APPLICATIONS (ArXiv 2019), Ming Lu, Ming Cheng, Yiling Xu, Shiliang Pu, Qiu Shen, and Zhan Ma
 
 - DVC: An End-to-end Deep Video Compression Framework (CVPR 2019)
+
+- Partition tree guided progressive rethinking network for in-loop filtering of hevc (ICIP 2019), Wang, Dezhao
