@@ -51,3 +51,7 @@
 - DVC: An End-to-end Deep Video Compression Framework (CVPR 2019)
 
 - Partition tree guided progressive rethinking network for in-loop filtering of hevc (ICIP 2019), Wang, Dezhao
+
+- Neural Inter-Frame Compression for Video Coding (ICCV 2019), Djelouah, Abdelaziz
+
+- Video Compression With Rate-Distortion Autoencoders (ICCV 2019), Habibian, Amirhossein
