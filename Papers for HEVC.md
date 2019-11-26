@@ -46,7 +46,7 @@
 
 - Partition Tree Guided Progressive Rethinking Network for in-Loop Filtering of HEVC (ICIP 2019), Wang, Dezhao
 
-- LEARNED QUALITY ENHANCEMENT VIA MULTI-FRAME PRIORS FOR HEVC COMPLIANT LOW-DELAY APPLICATIONS (ArXiv 2019), Ming Lu, Ming Cheng, Yiling Xu, Shiliang Pu, Qiu Shen, and Zhan Ma
+- Learned Quality Enhancement Via Multi-Frame Priors For HEVC Compliant Low-Delay Applications (ArXiv 2019), Ming Lu, Ming Cheng, Yiling Xu, Shiliang Pu, Qiu Shen, and Zhan Ma
 
 - DVC: An End-to-end Deep Video Compression Framework (CVPR 2019)
 
