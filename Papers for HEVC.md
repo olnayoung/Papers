@@ -1,18 +1,12 @@
 # Papers for in-loop filtering
 
-- Deep Learning Based HEVC In-Loop Filtering For Decoder Quality Enhancement (PCS 2018), Shiba Kuanar, Christopher Conly, Kamisetty Rao.
+- CNN-based in-loop filtering for coding efficiency improvement (IVMSP 2016), W.-S. Park, M. Kim.
 
 - A convolutional neural network approach for post-processing in HEVC intra coding (MMM 2017), Y. Dai, D. Liu, F. Wu.
 
-- CNN-based in-loop filtering for coding efficiency improvement (IVMSP 2016), W.-S. Park, M. Kim.
-
 - Spatial-Temporal Residue Network Based In-Loop Filter for Video Coding (VCIP 2017), Chuanmin Jia, Shiqi Wang, Xinfeng Zhang, Shanshe Wang, Siwei Ma.
 
-- A New HEVC In-Loop Filter Based on Multi-channel Long-Short-term Dependency Residual Networks (DCC 2018), Xiandong Meng, Chen Chen, Shuyuan Zhu, and Bing Zeng.
-
 - Multi-Modal/Multi-Scale Convolutional Neural Network Based In-Loop Filter Design For Next Generation Video Codec (ICIP 2017), Jihong Kang, Sungjei Kim, Kyoung Mu Lee.
-
-- Residual Highway Convolutional Neural Networks for in-loop Filtering in HEVC (TIP 2018), Yongbing Zhang, Tao Shen, Xiangyang Ji, Yun Zhang, Ruiqin Xiong, and Qionghai Dai.
 
 - Decoder-Side Hevc Quality Enhancement With Scalable Convolutional Neural Network (ICME 2017), Ren Yang, Mai Xu and Zulin Wang.
 
@@ -21,6 +15,12 @@
 - A Novel Deep Learning-Based Method of Improving Coding Efficiency from the Decoder-end for HEVC (DCC 2017), Tingting Wang, Mingjin Chen and Hongyang Chao.
 
 - Cnn Based Post-Processing To Improve Hevc (ICIP 2017), Chen Li, Li Song, Rong Xie and Wenjun Zhang.
+
+- Deep Learning Based HEVC In-Loop Filtering For Decoder Quality Enhancement (PCS 2018), Shiba Kuanar, Christopher Conly, Kamisetty Rao.
+
+- A New HEVC In-Loop Filter Based on Multi-channel Long-Short-term Dependency Residual Networks (DCC 2018), Xiandong Meng, Chen Chen, Shuyuan Zhu, and Bing Zeng.
+
+- Residual Highway Convolutional Neural Networks for in-loop Filtering in HEVC (TIP 2018), Yongbing Zhang, Tao Shen, Xiangyang Ji, Yun Zhang, Ruiqin Xiong, and Qionghai Dai.
 
 - The Multi-Scale Deep Decoder for the Standard HEVC Bitstreams (DCC 2018), Tingting Wang, Wenhui Xiao, Minglin Chen and Hongyang Chao.
 
