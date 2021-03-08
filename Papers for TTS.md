@@ -8,6 +8,7 @@
     - FASTSPEECH 2: FAST AND HIGH-QUALITY END-TOEND TEXT TO SPEECH (arxiv 2020.10) [[paper](https://arxiv.org/pdf/2006.04558v4.pdf)] [code [tenserflow](https://github.com/TensorSpeech/TensorflowTTS),  [pytorch](https://github.com/HGU-DLLAB/Korean-FastSpeech2-Pytorch)]
     - Non-Autoregressive Neural Text-to-Speech (PMLR 2020) [[paper](http://proceedings.mlr.press/v119/peng20a.html)] (ParaNet)
 - Vocoder
+    - WaveNet: A generative model for raw audio (arxiv 2016) [[paper](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)]
     - Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram (ICASSP 2020) [[paper](https://r9y9.github.io/demos/projects/icassp2020/)]
     - Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis (arxiv 2020.07) [[paper](https://arxiv.org/pdf/2005.05957.pdf)] [[code](https://github.com/NVIDIA/flowtron)]
     - HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis (arxiv 2020.10) [[paper](https://arxiv.org/pdf/2010.05646v2.pdf)]
